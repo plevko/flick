@@ -6,7 +6,7 @@ A fast photo viewer and culling tool for Windows, made for Nikon NEF, DNG and JP
 
 ![Holding the arrow key through a folder of NEFs, then picking with Space](screenshots/culling.gif)
 
-**Beta:** 0.9 is the first public version, so you may find rough edges. Reports are welcome on the [Issues page](../../issues).
+**Beta:** 0.9 is the first public version, so you may find rough edges. Reports are welcome on the [Issues page](https://github.com/plevko/flick/issues).
 
 ## What it does
 
@@ -29,7 +29,7 @@ A fast photo viewer and culling tool for Windows, made for Nikon NEF, DNG and JP
 
 ## Download
 
-Get the latest version from the [Releases page](../../releases/latest). There are two packages:
+Get the latest version from the [Releases page](https://github.com/plevko/flick/releases/latest). There are two packages:
 
 - **Installer** (`Flick-Setup-0.9.0.exe`, about 35 MB): installs for your user without admin rights, or for all users if you choose. It can add Flick to "Open with" for NEF, DNG and JPG files. To open photos with Flick on double-click, choose it in **Windows Settings → Apps → Default apps → Flick**.
 - **Portable** (`Flick-0.9.0-portable.zip`, about 48 MB): unzip anywhere, a USB stick works, and run `Flick\flick.exe`. Its settings stay in its own folder, and it changes nothing in Windows.
@@ -79,7 +79,7 @@ The mouse wheel can zoom instead, and the click zoom can be 100% or 400%, in **�
 
 ## Feedback
 
-Found a bug or missing something? Open an issue on the [Issues page](../../issues). A screenshot and your camera model help.
+Found a bug or missing something? Open an issue on the [Issues page](https://github.com/plevko/flick/issues). A screenshot and your camera model help.
 
 ## Licence
 
