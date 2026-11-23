@@ -1,0 +1,15 @@
+name: Idea
+description: Something Flick could do, or do better
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Flick to do
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: How it would help you
+      description: How you view or cull your photos today, and where this fits in.
