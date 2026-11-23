@@ -29,8 +29,8 @@ A fast photo viewer and culling tool for Windows, made for Nikon NEF, DNG and JP
 
 Get the latest version from the [Releases page](https://github.com/plevko/flick/releases/latest). There are two packages:
 
-- **Installer** (`Flick-Setup-0.9.0.exe`, about 35 MB): installs for your user without admin rights, or for all users if you choose. It can add Flick to "Open with" for NEF, DNG and JPG files. To open photos with Flick on double-click, choose it in **Windows Settings → Apps → Default apps → Flick**.
-- **Portable** (`Flick-0.9.0-portable.zip`, about 48 MB): unzip anywhere, a USB stick works, and run `Flick\flick.exe`. Its settings stay in its own folder, and it changes nothing in Windows.
+- **Installer** (`Flick-Setup-0.9.1.exe`, about 33 MB): installs for your user without admin rights, or for all users if you choose. It can add Flick to "Open with" for NEF, DNG and JPG files. To open photos with Flick on double-click, choose it in **Windows Settings → Apps → Default apps → Flick**.
+- **Portable** (`Flick-0.9.1-portable.zip`, about 48 MB): unzip anywhere, a USB stick works, and run `Flick\flick.exe`. Its settings stay in its own folder, and it changes nothing in Windows.
 
 **"Windows protected your PC":** Flick isn't signed with a paid code-signing certificate, so Windows SmartScreen warns about it at first. Click **More info**, then **Run anyway**. Each release lists the SHA-256 checksums of both packages and a VirusTotal scan, so you can check the file you downloaded.
 
