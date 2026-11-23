@@ -1,0 +1,33 @@
+Flick licence
+=============
+
+Copyright (c) 2026 Michal Plevko. All rights reserved.
+
+Flick is free software in the sense of free of charge ("freeware"): you may use it without paying, on as many
+computers as you like, at home and at work.
+
+You may:
+- install and use Flick for personal and commercial purposes;
+- share exact, unchanged copies of the installer or the portable zip with others, as long as you do not charge for
+  them and keep this licence with them.
+
+You may not:
+- sell Flick, or charge for it on its own or as part of something else;
+- change, rename or repackage it, or bundle it with other software or with advertising;
+- decompile, disassemble or otherwise reverse engineer it, except where the law allows this despite this licence;
+- remove or change this licence, the copyright notice or the third-party notices.
+
+Third-party components
+Flick includes components by other authors (LibRaw, MetadataExtractor, Win2D, the Windows App SDK, the .NET runtime
+and others). They are not covered by this licence but by their own, listed in the "licenses" folder next to
+flick.exe (THIRD-PARTY-NOTICES.txt). Nothing in this licence limits the rights those licences give you; for
+example, LibRaw (raw_r.dll) may be replaced with another build under the terms of the LGPL 2.1.
+
+No warranty
+Flick is provided "as is", without warranty of any kind, express or implied, including fitness for a particular
+purpose. Flick moves, renames, rates, rotates and deletes photo files when you ask it to; keep backups of photos you
+care about. In no event shall the author be liable for any claim, damages or other liability arising from the use
+of Flick, including loss of data.
+
+Changes to this licence apply to versions released after the change; the version of Flick you have keeps the
+licence it came with.
