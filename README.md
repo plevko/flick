@@ -2,9 +2,7 @@
 
 A fast photo viewer and culling tool for Windows, made for Nikon NEF, DNG and JPG files. It looks like the Windows Photos viewer, but the next photo is there the moment you press the arrow key, even with raw files.
 
-![Flick showing a NEF with the filmstrip and the bottom bar](screenshots/flick.png)
-
-![Holding the arrow key through a folder of NEFs, then picking with Space](screenshots/culling.gif)
+![Flick showing a photo with the filmstrip and the bottom bar](screenshots/flick.png)
 
 **Beta:** 0.9 is the first public version, so you may find rough edges. Reports are welcome on the [Issues page](https://github.com/plevko/flick/issues).
 
